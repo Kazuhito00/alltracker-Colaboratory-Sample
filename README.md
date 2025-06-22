@@ -10,5 +10,8 @@ Colaboratoryでノートブックを開き、上から順に実行してくだ�
 # License 
 alltracker-Colaboratory-Sample is under [MIT license](LICENSE).
 
+# License(Movie)
+サンプル動画は[NHKクリエイティブ・ライブラリー](https://www.nhk.or.jp/archives/creative/)の[カワウ　海辺で羽を広げ休む](https://www2.nhk.or.jp/archives/movies/?id=D0002030252_00000)を使用しています。
+
 # Author
 高橋かずひと(https://twitter.com/KzhtTkhs)
